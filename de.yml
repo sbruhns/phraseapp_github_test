@@ -7,7 +7,7 @@ de:
     destroy: Löschen
     edit: Bearbeiten
     new: Neu
-  hello: Hallo We
+  hello: Hallo Welt
   layouts:
     application:
       about: Über
