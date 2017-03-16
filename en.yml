@@ -7,7 +7,7 @@ en:
     destroy: Delete
     edit: Edit
     new: New
-  hello: Hello worldadf
+  hello: Hello world
   layouts:
     application:
       about: About
@@ -15,7 +15,7 @@ en:
       app_store: App Store
       imprint: Imprint
       logout: Logout
-      my_mails: My Mailsre
+      my_mails: My Mails
       press: Press
       preview: Preview
       profile: Profile
