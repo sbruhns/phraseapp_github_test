@@ -1,0 +1,12 @@
+phraseapp:
+  host: http://localhost:3000/api
+  file_format: yml
+  project_id: a9981a5026c0bb27f2d7544f13d752c6
+  push:
+    sources:
+      -
+        file: ./<locale_name>.yml
+  pull:
+    targets:
+      -
+        file: ./<locale_name>.yml
