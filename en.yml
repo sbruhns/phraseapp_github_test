@@ -7,7 +7,7 @@ en:
     destroy: Delete
     edit: Edit
     new: New
-  hello: Hello world
+  hello: Hello worldadf
   layouts:
     application:
       about: About
