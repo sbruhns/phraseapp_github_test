@@ -1,0 +1,18 @@
+---
+de:
+  general:
+    back: zurück
+    cancel: abbrechen
+    confirm: Bist du sicher?
+    destroy: Löschen
+    edit: Bearbe
+    new: Neu
+  hello: Hall
+  layouts:
+    application:
+      about: Über
+      account: Konto
+      app_store: App Store
+      imprint: Impre
+      logout: Abmelden
+      my_mails: Meine Mails
